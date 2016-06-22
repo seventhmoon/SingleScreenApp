@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SingleScreenApp</string>
+    <string name="place_address">1600 Amphitheatre Parkway\nMountain View, CA 94043</string>
+    <string name="place_phone">+1 650&#8211;253&#8211;0000</string>
+    <string name="place_name">Google Inc.</string>
+    <string name="action_settings">Settings</string>
+    <string name="place_desc">Google is an American multinational technology company specializing in Internet-related services and products.</string>
+</resources>
